@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99a2c833-771b-4aa0-9cf2-b162f85313ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-    </list>
+    <list default="true" id="99a2c833-771b-4aa0-9cf2-b162f85313ed" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,7 +170,7 @@
       <workItem from="1624821426160" duration="13424000" />
       <workItem from="1625009222172" duration="4064000" />
       <workItem from="1625033137918" duration="543000" />
-      <workItem from="1625236416514" duration="38000" />
+      <workItem from="1625236416514" duration="371000" />
     </task>
     <servers />
   </component>
